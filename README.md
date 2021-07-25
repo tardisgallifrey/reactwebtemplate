@@ -1,0 +1,1 @@
+<h1>A Reactjs Web Site Temple</h1>

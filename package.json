@@ -1,0 +1,17 @@
+{
+  "name": "reactwebtemplate",
+  "version": "0.0.9",
+  "description": "A Reactjs Web Template",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "Reactjs",
+    "nodejs",
+    "webdev"
+  ],
+  "author": "",
+  "license": "ISC"
+}
